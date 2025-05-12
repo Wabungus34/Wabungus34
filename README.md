@@ -1,4 +1,22 @@
-## Hi there 👋
+<h1>Hey, I'm Jack a.k.a Wabungus34. 
+
+<h2> Cybersecurity Projects:</h2>
+
+<h2> College Projects:</h2>
+
+
+<h2>VM/Homelab projects:</h2>
+
+<h2>Connect with me:</h2>
+
+- https://www.linkedin.com/in/jack-j-b2722533a/
+
+
+
+
+
+
+
 
 <!--
 **Wabungus34/Wabungus34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
