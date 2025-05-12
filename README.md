@@ -3,8 +3,8 @@
 <h2> Cybersecurity Projects:</h2>
 
 <h2> College Projects:</h2>
-
-
+ - <b>Setting up a Windows Server FRSM, DHCP, ADDS, and Client environments</b>
+ - (https://github.com/Wabungus34/WindowServer/blob/main/WindowsServerSetupProject_Jack.pdf)
 <h2>VM/Homelab projects:</h2>
 
 <h2>Connect with me:</h2>
