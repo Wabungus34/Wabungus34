@@ -1,4 +1,4 @@
-<h1>Hey, I'm Jack a.k.a Wabungus34. 
+<h1>Hey, I'm Jack a.k.a Wabungus. 
 
 <h2> Biography:</h2>
  <b> I currently am in the process of earning my Associates in Cybersecurity, as well as my Sec+ Certification. I am beginning to learn GitHub and doing some small projects when I have time. </b>
